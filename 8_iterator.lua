@@ -1,0 +1,3 @@
+#!/bin/env lua
+
+--iterator
